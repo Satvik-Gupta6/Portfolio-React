@@ -78,7 +78,7 @@ function NavBar() {
             </Nav.Item>
             <Nav.Item>
               <Nav.Link
-                href="https://blogs.soumya-jit.tech/"
+                href="https://satvik-dev.tk"
                 target="_blank"
                 rel="noreferrer"
               >
