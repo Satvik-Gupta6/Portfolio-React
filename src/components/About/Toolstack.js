@@ -31,9 +31,9 @@ function Toolstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiIntellijidea />
       </Col>
-      <col xs={4} md={2} className="tech-icons">
+      <Col xs={4} md={2} className="tech-icons">
         <SiFigma />
-      </col>
+      </Col>
     </Row>
   );
 }
