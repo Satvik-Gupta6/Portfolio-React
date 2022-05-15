@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Satvik Gupta </span>
             from <span className="purple"> Lucknow, India.</span>
-            <br />I am a frond-end developer, pursuing my basic studies from C.M.S Lucknow. I strive to make meaningful web applications with the best UI practices.
+            <br />I am a Frond-End Developer, pursuing my studies from C.M.S Lucknow. I strive to make meaningful web applications with the best UI practices.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
