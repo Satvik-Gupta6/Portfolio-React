@@ -13,9 +13,6 @@ import {
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
 } from "react-icons/ai";
-
-import { CgFileDocument } from "react-icons/cg";
-
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
   const [navColour, updateNavbar] = useState(false);
@@ -27,9 +24,7 @@ function NavBar() {
       updateNavbar(false);
     }
   }
-
   window.addEventListener("scroll", scrollHandler);
-
   return (
     <Navbar
       expanded={expand}
@@ -81,9 +76,6 @@ function NavBar() {
                 Projects
               </Nav.Link>
             </Nav.Item>
-
-            
-
             <Nav.Item>
               <Nav.Link
                 href="https://blogs.soumya-jit.tech/"
