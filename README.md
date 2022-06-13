@@ -30,6 +30,6 @@ This project was built using these technologies.
 
 Give a ⭐ if you like this website!
 
-<a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/satvik6)
 
 [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/ewlk.svg)](https://betteruptime.com/?utm_source=status_badge)
