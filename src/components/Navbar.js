@@ -76,9 +76,10 @@ function NavBar() {
                 Projects
               </Nav.Link>
             </Nav.Item>
+
             <Nav.Item>
               <Nav.Link
-                href="https://satvik-dev.tk"
+                href="https://satvik.codes"
                 target="_blank"
                 rel="noreferrer"
               >
