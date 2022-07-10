@@ -3,6 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import portfolio from "../../Assets/Projects/web.png";
+import Minecraft from "../../Assets/Projects/mc-plugin.jpg";
 
 function Projects() {
   return (
@@ -29,10 +30,10 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={portfolio}
+              imgPath={Minecraft}
               isBlog={false}
               title="Particle Plugin"
-              description="Minecraft Plugin written win java."
+              description="Minecraft Plugin written in java with help of Spigot API."
               link="https://github.com/Satvik-Gupta6/particles"
             />
           </Col>
