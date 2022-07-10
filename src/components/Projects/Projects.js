@@ -26,6 +26,17 @@ function Projects() {
               link="https://github.com/Satvik-Gupta6/Portfolio-React"
             />
           </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={portfolio}
+              isBlog={false}
+              title="Particle Plugin"
+              description="Minecraft Plugin written win java."
+              link="https://github.com/Satvik-Gupta6/particles"
+            />
+          </Col>
+
         </Row>
       </Container>
     </Container>
